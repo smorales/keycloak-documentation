@@ -7,7 +7,7 @@
 :tech_feature_setting: -Dkeycloak.profile.feature.token_exchange=enabled
 include::../templates/techpreview.adoc[]
 
-:projetc_images: ../keycloak-images
+:project_images: ../../keycloak-images
 
 [NOTE]
 ====
